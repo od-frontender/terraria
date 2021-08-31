@@ -1,0 +1,25 @@
+.container {
+  width: 1280px;
+  margin: 0 auto;
+}
+.tittle {
+  color: orange;
+  text-align: center;
+}
+.tittle2 {
+  text-align: center;
+}
+.game1 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.pick {
+  width: 400px;
+  height: 200px;
+}
+.text {
+  max-width: 400px;
+}
+.task {
+  margin-right: 20px;
+}
